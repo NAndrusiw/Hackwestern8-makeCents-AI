@@ -1,0 +1,242 @@
+{
+  "version": "v2",
+  "intents": 
+  {
+    "yes": 
+    {
+      "includes": [
+        "yes",
+        "correct",
+        "sure",
+        "absolutely",
+        "yes siree bob",
+        "right",
+        "yep",
+        "you got it",
+        "I would",
+        "yeah",
+        "that's right", 
+        "I would"
+      ],
+      "excludes": [
+        "fuck off"
+      ]
+    },
+    "no": {
+      "includes": [
+        "no",
+        "no thank you",
+        "nope",
+        "im ok",
+        "thats ok thank you",
+        "thats everything",
+        "definitely not",
+        "wrong",
+        "incorrect",
+        "I do not",
+        "I don't",
+        "I would not",
+        "I wouldn't"
+      ]
+    },
+
+    "bye": {
+      "includes": [
+        "bye",
+        "good bye",
+        "thanks bye",
+        "nevermind",
+        "forget about it",
+        "we're done",
+        "take it easy",
+        "peace out boo",
+        "peace"
+      ]
+    },
+
+    "investment":
+    {
+      "includes":[
+        "investment",
+        "investments",
+        "invested",
+        "invest",
+        "invest in something",
+        "invest in",
+        "to invest",
+        "an investment",
+        "what investment"
+      ]
+    },
+
+    "asset":
+    {
+      "includes":[
+        "asset",
+        "assets",
+        "what is an asset",
+        "what are assets",
+        "asset dont know",
+        "what's an asset",
+        "an asset",
+        "define asset"
+      ]
+    },
+
+    "compound_interest":
+    {
+      "includes":[
+"compound interest",
+"compound interests",
+"what is compound interest",
+"what are compound interest",
+"define compound interest"
+      ]
+    },
+
+    "penny_stocks":
+    {
+      "includes":[
+        "penny stock",
+        "penny_stockss",
+        "what is a penny_stock",
+        "what are penny_stocks",
+        "define penny_stock"
+      ]
+    },
+
+    "stock_option":
+    {
+      "includes":[
+"stock option",
+"stock options",
+"what is a stock option",
+"what are stock options",
+"define stock option"
+      ]
+    },
+
+    "blockchain":
+    {
+      "includes":[
+"blockchain",
+"blockchains",
+"what is a blockchain",
+"what are blockchains",
+"define blockchain"
+      ]
+    },
+
+    "dividends":
+    {
+      "includes":[
+"dividend",
+"dividends",
+"what is a dividend",
+"what are dividends",
+"define dividends"
+      ]
+    },
+
+    "down_payment":
+    {
+      "includes":[
+"down payment",
+"down payments",
+"what is a down payment",
+"what aredown payments",
+"define down payments"
+      ]
+    },
+
+    "equity":
+    {
+      "includes":[
+"Equity",
+"Equities",
+"what is equity",
+"what are equities",
+"define equity"
+      ]
+    },
+
+    "escrow":
+    {
+      "includes":[
+"escrow",
+"escrows",
+"what is escrow",
+"what are escrow services",
+"define escrow"
+      ]
+    },
+
+    "return_on_investment":
+    {
+      "includes":[
+"Return on investment",
+"Return on investments",
+"what is a Return on investment",
+"what are Return on investments",
+"define Return on investment"
+      ]
+    },
+
+    "top_down_investing":
+    {
+      "includes":[
+"top down investing",
+"top down investors",
+"what is top down investing",
+"what are top down investing",
+"define top down investing"
+      ]
+    },
+
+    "unsubsidized_loan":
+    {
+      "includes":[
+"Unsubsidized loan",
+"Unsubsidized loans",
+"what is a Unsubsidized loan",
+"what are Unsubsidized loans",
+"define Unsubsidized loan"
+      ]
+    },
+
+    "W9form":
+    {
+      "includes":[
+"W 9 form",
+"W 9 forms",
+"what is a W 9 form",
+"what are W 9 forms",
+"define W 9 form"
+      ]
+    },
+
+    "bonds":
+    {
+      "includes":[
+"bonds",
+"bond",
+"what is a bond",
+"what are bonds",
+"define bond"
+      ]
+    }
+        
+
+  }
+}
+
+
+
+
+
+
+
+
+
+
+

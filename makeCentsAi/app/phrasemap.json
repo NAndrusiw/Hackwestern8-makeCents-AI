@@ -1,0 +1,174 @@
+{
+  "default": {
+    "voiceInfo": {
+      "lang": "en-US",
+      "speaker": "default",
+      "speed": 1
+    },
+    "phrases": {
+      "greeting": {
+        "first": [
+          {
+            "text": "Hey! My name is Dasha, can I help something make-cents for you today?"
+          }
+        ]
+      },
+      "yes": {
+        "first": [
+          {
+            "text": "Great! What would you like to learn more about?"
+          }
+        ]
+      },
+      "no": {
+        "first": [
+          {
+            "text": "chich behaviour from this guy right here. cya homeslice"
+          }
+        ]
+      },
+      "continue": {
+        "first": [
+          {
+            "text": "Ok, What else would you like to know about"
+          }
+        ]
+      },
+      "investmentDef": {
+        "first": [
+          {
+            "text": "investment or investing means that an asset is bought, or that money is put into a bank to get a future interest from it. Would you like to ask another question?"
+          }
+        ]
+      },
+      "assetDef": {
+        "first": [
+          {
+            "text": "An asset is something that provides a current, future, or potential economic benefit for an individual or other entity. An asset is, therefore, something that is owned by you or something that is owed to you. Would you like to ask another question?"
+          }
+        ]
+      },
+      "compound_interest": {
+        "first": [
+          {
+            "text": "A method of calculating interest where you earn a percentage not just of the principal amount but the principal plus any previously earned interest. For example, say you have a balance of $1,000 and are earning an annual interest rate of 6%. At the end of the first year, you'll earn $60 in interest. The following year you'll earn your 6% interest on the total new balance of $1,060. At the end of the second year, you'll have a total of $1,123.60. Would you like to ask another question?"
+          }
+        ]
+      },
+      "penny_stocks": {
+        "first": [
+          {
+            "text": "Small public companies' stock shares that are valued at less than $1 a piece. Trading in penny stocks is generally considered highly risky. Would you like to ask another question?"
+          }
+        ]
+      },
+      "stock_option": {
+        "first": [
+          {
+            "text": "Stock options can be offered by companies as management incentives. These options give you the right (but not the obligation) to buy your employer’s stock at a pre-set price within a specified time period. For example, if a manager helps boost the value of the company’s stock above the price of his or her option, the manager can buy the stock at the lower price and pocket the gain if they sell. But all shareholders benefit from the increased value of the stock. Would you like to ask another question?"
+          }
+        ]
+      },
+      "blockchain": {
+        "first": [
+          {
+            "text": "A blockchain is a distributed database that is shared among the nodes of a computer network. As a database, a blockchain stores information electronically in digital format. Would you like to ask another question?"
+          }
+        ]
+      },
+      "demonetization": {
+        "first": [
+          {
+            "text": "Demonetization is the act of stripping a currency unit of its status as legal tender. It occurs whenever there is a change in national currency. The current form or forms of money is pulled from circulation and retired, often to be replaced with new notes or coins. Would you like to ask another question?"
+          }
+        ]
+      },
+      "Dividends": {
+        "first": [
+          {
+            "text": "The payouts companies make on a recurring basis to the investors who own their shares. Dividend payments typically come out of a company's earnings. Would you like to ask another question?"
+          }
+        ]
+      },
+      "down_payment": {
+        "first": [
+          {
+            "text": "The lump sum of money you pay toward buying a home when you take out a mortgage. Making a down payment of at least 20% of the price of the home prevents you from having to pay private mortgage insurance, an extra fee that protects the lender. Would you like to ask another question?"
+          }
+        ]
+      },
+      "equity": {
+        "first": [
+          {
+            "text": " Your ownership of an asset after you've accounted for the debt you owe on it. For example, if you bought a house with a mortgage, your equity in the home is the home's value minus your outstanding loan balance. Would you like to ask another question?"
+          }
+        ]
+      },
+      "escrow": {
+        "first": [
+          {
+            "text": "An account used to set aside money for larger and/or periodic expenses, like property taxes. An intermediary between the saver who puts money in the account and the payee manages the account and makes the payments. Would you like to ask another question?"
+          }
+        ]
+      },
+      "return_on_investment": {
+        "first": [
+          {
+            "text": "ROI is a measurement of how much a particular asset has grown in value since you bought it relative to how much you paid for it. Would you like to ask another question?"
+          }
+        ]
+      },
+      "top_down_investing": {
+        "first": [
+          {
+            "text": "An investment strategy that focuses on broad market trends and the economy as a whole rather than on individual companies or sectors. Would you like to ask another question?"
+          }
+        ]
+      },
+      "unsubsidized_loan": {
+        "first": [
+          {
+            "text": "A US government-backed student loan for which no demonstration of financial need is necessary. Students with subsidized loans will be charged interest throughout the borrow and repayment periods. Would you like to ask another question?"
+          }
+        ]
+      },
+      "W9form": {
+        "first": [
+          {
+            "text": "The tax form an independent contractor fills out to share their taxpayer identification number with their clients. Would you like to ask another question?"
+          }
+        ]
+      },
+      "bonds": {
+        "first": [
+          {
+            "text": " A type of investment that is essentially a loan from the investor to the bond issuer (the US government or a corporation, for example). The bond issuer pays back the invested money, with interest, at specified intervals of time. Bonds carry less risk than stocks. Would you like to ask another question?"
+          }
+        ]
+      }
+    },
+    "types": {},
+    "macros": {
+      "greeting": {},
+      "yes": {},
+      "no": {},
+      "continue": {},
+      "investmentDef": {},
+      "goodbye": {},
+      "assetDef": {},
+      "stock_option": {},
+      "blockchain": {},
+      "dividends": {},
+      "down_payment": {},
+      "equity": {},
+      "top_down_investing": {},
+      "escrow": {},
+      "return_on_investment": {},
+      "unsubsidized_loan": {},
+      "W9form": {},
+      "bonds": {},
+      "compound_interest":{},
+      "penny_stocks":{}
+    }
+  }
+}
